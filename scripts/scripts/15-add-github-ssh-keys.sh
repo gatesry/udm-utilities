@@ -3,7 +3,7 @@
 # Set to true to download public keys from a github user account
 USE_GITHUB_KEYS=true
 # Enter your username on github to get the public keys for
-GITHUB_USER="<YOUR_USERNAME>"
+GITHUB_USER="mazak-ui"
 # File location for the output of the git download
 GITHUB_KEY_PATH="/mnt/data/podman/ssh"
 GITHUB_KEY_FILE="${GITHUB_KEY_PATH}/github.keys"
